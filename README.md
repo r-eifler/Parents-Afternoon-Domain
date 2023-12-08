@@ -3,7 +3,7 @@
 This domain models the afternoon activities of a parent and their family members. 
 The parent has to drive people and items between locations such 
 that they can perform certain activities.
-An activity can involve an item, which means that the item must be with the person at the matching location to perform the activity. Additionally, an activity can be constraint be a time 
+An activity can involve an item, which means that the item must be with the person at the matching location to perform the activity. Additionally, an activity can be constraint by a time 
 window when the activity must start.
 Each person can only perform one activity at a time.
 
